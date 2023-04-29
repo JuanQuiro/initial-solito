@@ -1,2 +1,0 @@
-# initial-solito
-Next + Expo
